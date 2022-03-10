@@ -1,0 +1,27 @@
+.dice {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+    float: left;
+    margin: 10px;
+    color: black;
+    text-align: center;
+    line-height: 150px;
+    font-size: 50px;
+}
+.insertDie {
+    background-color: darkorchid;
+    color: plum;
+    border-radius: 5px;
+}
+.rollDice {
+    background-color: blue;
+    color: aqua;
+    border-radius: 5px;
+}
+.sumDice {
+    background-color: green;
+    color: greenyellow;
+    border-radius: 5px;
+}
